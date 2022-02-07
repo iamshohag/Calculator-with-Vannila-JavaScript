@@ -20,7 +20,7 @@ function Erase() {
 };
 
 function welcome() {
-    document.getElementById("display").value = "Codded By Shohag Khan";
+    document.getElementById("display").value = "Codded By Sajjad Alam Shohag";
     setTimeout(welcome_end, 2000);
 };
 
